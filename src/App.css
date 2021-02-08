@@ -1,0 +1,42 @@
+.list {
+    text-align: left;
+    max-width: 750px;
+    margin: auto;
+  }
+  
+  .submit-form {
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .edit-form {
+    max-width: 300px;
+    margin: auto;
+  }
+  
+  .size-image {
+    width: 250px;
+    height: 350px;
+  }
+
+.link-hover {
+  color: black;
+  text-decoration: none ;
+}
+
+.link-hover :hover{
+color: rgb(165, 11, 11);
+cursor: pointer;
+}
+
+.link-hover-navbar {
+  color: white;
+  align-items: right;
+  text-decoration: none;
+}
+
+.status {
+  border: 0px solid transparent;
+  background: transparent;
+  box-shadow: 0px 0px 0px transparent;
+}
